@@ -7,12 +7,12 @@ Este repositorio contiene el desarrollo del análisis exploratorio del dataset *
 - Limpieza de datos
 - Análisis univariado
 - Análisis bivariado
-- Visualizaciones con "matplotlib"
+- Visualizaciones con `matplotlib`
 - Interpretaciones de los gráficos
 
 ## Archivos
 
-- `Examen intento 1.ipynb`: Notebook principal con todo el análisis.
+- `Examen_intento_1.ipynb`: Notebook principal con todo el análisis.
 - `README.md`: Descripción general del proyecto.
 
 ## Versión
